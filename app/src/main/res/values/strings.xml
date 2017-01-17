@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Refresh Cafe</string>
+    <string name="toMenuBtn">Menu</string>
+    <string name="HomeScreenWelcome">Welcome to the Café!</string>
+    <string name="title_activity_test_menu">testMenu</string>
+    <string name="title_activity_start_menu">StartMenu</string>
+    <string name="title_activity_specials_menu">SpecialsMenu</string>
+    <string name="title_activity_salad_menu">SaladMenu</string>
+    <string name="title_activity_soup_menu">SoupMenu</string>
+
+    <!--Beginning menu strings-->
+    <string name="menuTitle">Choose from Our Menu!</string>
+    <string name="specialsBtn">Specials!</string>
+    <string name="saladsBtn">Salads</string>
+    <string name="soupBtn">Soups</string>
+    <string name="dessertBtn">Dessert</string>
+    <string name="beverageBtn">Beverages</string>
+    <string name="title_activity_dessert_menu">DessertMenu</string>
+    <string name="title_activity_beverage_menu">BeverageMenu</string>
+</resources>
