@@ -78,7 +78,8 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.mrel.refreshcafe.SpecialsMenu" />
         </activity>
-        <activity android:name=".SpecialItm2"></activity>
+        <activity android:name=".SpecialItm2" />
+        <activity android:name=".SpecialItem1"></activity>
     </application>
 
 </manifest>
