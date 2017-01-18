@@ -17,4 +17,6 @@
     <string name="beverageBtn">Beverages</string>
     <string name="title_activity_dessert_menu">DessertMenu</string>
     <string name="title_activity_beverage_menu">BeverageMenu</string>
+    <string name="specItem1">Braised Brisket over Egg Noodles</string>
+    <string name="specItem2">Smoked Turkey BBQ Slides</string>
 </resources>
