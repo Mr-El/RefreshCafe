@@ -26,7 +26,7 @@ public class StartMenu extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         //Menu Button events
         /*Button specialsBtn = (Button) findViewById(R.id.specialsBtn);
