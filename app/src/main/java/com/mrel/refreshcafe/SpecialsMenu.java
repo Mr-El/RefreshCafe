@@ -1,5 +1,5 @@
 package com.mrel.refreshcafe;
-
+//testing
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -32,7 +32,7 @@ public class SpecialsMenu extends AppCompatActivity {
         specItem1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(SpecialsMenu.this, SpecialItm1.class));
+                startActivity(new Intent(SpecialsMenu.this, special_ItemOne.class));
             }
         });
     }

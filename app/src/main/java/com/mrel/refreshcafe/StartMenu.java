@@ -27,7 +27,7 @@ public class StartMenu extends AppCompatActivity {
             }
         });
         //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+//testing
         //Menu Button events
         /*Button specialsBtn = (Button) findViewById(R.id.specialsBtn);
         specialsBtn.setOnClickListener(new View.OnClickListener() {
