@@ -87,7 +87,15 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.mrel.refreshcafe.SpecialsMenu" />
         </activity>
-        <activity android:name=".SaladItem1"></activity>
+        <activity
+            android:name=".FirstMenu"
+            android:label="@string/title_activity_first_menu"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mrel.refreshcafe.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
