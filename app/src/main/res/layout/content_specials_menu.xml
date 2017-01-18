@@ -13,4 +13,12 @@
     tools:context="com.mrel.refreshcafe.SpecialsMenu"
     tools:showIn="@layout/activity_specials_menu">
 
+    <Button
+        android:text="@string/specItem1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="73dp"
+        android:id="@+id/specItem1" />
 </RelativeLayout>
