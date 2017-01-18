@@ -23,4 +23,24 @@
     <string name="action_settings">Settings</string>
     <string name="sp1Desc">Slowly braised brisket over top of egg noodles with vegetables to compliment.</string>
     <string name="title_activity_special__item_one">special_ItemOne</string>
+    <string name="sp2Desc">Smoked turkey with a signature BBQ sause between two slider rolls with an apple and jaicana slaw on the side</string>
+    <string name="saladItem1">Grilled Chicken Salad with Pomegranate Vinaigrette</string>
+    <string name="soupItem1">Shrimp and Corn Chowder</string>
+    <string name="soup1Desc">A hearty cream based soup with corn, bacon, potatoes, and shrimp</string>
+    <string name="soupItem2">Vegetarian Three Bean Soup</string>
+    <string name="soup2Desc">Three bean vegetarian with hearty vegetables</string>
+    <string name="dessItem1">Cranberry Apple Crumble</string>
+    <string name="dess1Desc">Fresh cranberries and granny smith apples with an oat crumble on top.</string>
+    <string name="bevMenu1">Minute Maid</string>
+    <string name="bevMenu2">Fountain Drinks</string>
+    <string name="bevMenu3">Coffee/Tea</string>
+    <string name="bevMenu4">Bottled</string>
+    <string name="bottTitle">Bottled Drinks</string>
+    <string name="CoffTitle">Coffee</string>
+    <string name="TeaTitle">Tea</string>
+    <string name="coffOp1">Regular</string>
+    <string name="coffOp2">Black</string>
+    <string name="teaOp1">Sweet</string>
+    <string name="teaOp2">Unsweet</string>
+    <string name="salad1Desc">Spring salad mix with red onions, tomatoes, droied apricots, grilled chicken with pomegranate vinaigrette on the side.</string>
 </resources>

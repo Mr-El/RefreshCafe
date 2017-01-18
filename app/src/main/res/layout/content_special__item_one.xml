@@ -32,8 +32,18 @@
         android:layout_marginBottom="27dp"
         android:id="@+id/spec1Desc"
         android:textAlignment="center"
-        android:textSize="24sp"
+        android:textSize="20sp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/brisket"
+        android:id="@+id/imageView2"
+        android:layout_alignBottom="@+id/spec1Desc"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="16dp" />
 </RelativeLayout>
