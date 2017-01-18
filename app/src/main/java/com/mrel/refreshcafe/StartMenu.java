@@ -19,17 +19,17 @@ public class StartMenu extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Snackbar.make(v, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        //fab.setOnClickListener(new View.OnClickListener() {
+        //    @Override
+        //    public void onClick(View v) {
+        //        Snackbar.make(v, "Replace with your own action", Snackbar.LENGTH_LONG)
+        //                .setAction("Action", null).show();
+        //    }
+       // });
+       // getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         //Menu Button events
-        /*Button specialsBtn = (Button) findViewById(R.id.specialsBtn);
+        Button specialsBtn = (Button) findViewById(R.id.specialsBtn);
         specialsBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -67,7 +67,7 @@ public class StartMenu extends AppCompatActivity {
             public void onClick(View v) {
                 startActivity(new Intent(StartMenu.this, BeverageMenu.class));
             }
-        });*/
+        });
     }
 
 }
