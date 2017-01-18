@@ -26,7 +26,7 @@ public class SpecialsMenu extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         Button specItem1 = (Button) findViewById(R.id.specItem1);
         specItem1.setOnClickListener(new View.OnClickListener() {
