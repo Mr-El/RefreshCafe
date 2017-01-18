@@ -32,7 +32,7 @@ public class SpecialsMenu extends AppCompatActivity {
         specItem1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(SpecialsMenu.this, SpecialItm1.class));
+                startActivity(new Intent(SpecialsMenu.this, SpecialItem1.class));
             }
         });
     }
